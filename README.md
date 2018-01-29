@@ -20,4 +20,9 @@ npm install --save web3@1.0.0-beta.26
 Question: what is the newer web3 2.0 added feature??
 
 How to test mocha with Ethereum
-MOcha --->>deploy ----> Manipulate contracts ---------> Make assertions about contracts  
+MOcha --->>deploy(before) ----> Manipulate contracts(it) ---------> Make assertions about contracts(it)  
+
+
+Transaction are created done
+
+Setup metamask for this ..
